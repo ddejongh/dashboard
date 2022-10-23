@@ -4,8 +4,8 @@ import './App.css';
 const App = () => {
     return (
         <div>
-            <h1 style="heading">Testing</h1>
-            <h2 style="sub-heading">Styles</h2>
+            <h1>Testing</h1>
+            <h2>Styles</h2>
         </div>
     );
 };
