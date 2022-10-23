@@ -1,4 +1,4 @@
-### Goals
+## Goals
 - [ ] Resume ready software project
     - [ ] v1.0.0
     - [ ] MERN stack employed
@@ -8,9 +8,9 @@
 
 ### Brainstorming
 #### Subtopics
-- ~~Computer vision~~
-- ~~NLP~~
-- ~~Time-series, anomaly detection, etc~~
+- [ ] ~~Computer vision~~
+- [ ] ~~NLP~~
+- [ ] ~~Time-series, anomaly detection, etc~~
 - [X] Data structures + Algorithms something
 
 #### Main Idea
