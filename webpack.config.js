@@ -9,7 +9,7 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.(js|jsx)$/,
+                test: /\.(js|jsx|ts|tsx)$/,
                 exclude: /(node_modules)/,
                 loader: "babel-loader",
                 options: { presets: ["@babel/env"] },
@@ -23,7 +23,7 @@ module.exports = {
 
     // Options for resolving module requests
     // extensions that are used
-    resolve: { extensions: ["*", ".js", ".jsx"] },
+    resolve: { extensions: ["*", ".js", ".jsx", ".ts", ".tsx"] },
 
     // Output point where webpack should
     // output the bundles and assets
