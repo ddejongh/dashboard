@@ -25,5 +25,6 @@
 
 ### To-do
 - [ ] Boilerplate creation
-- [ ] Hello world
+    - [ ] Hello world
+    - [ ] Fix unknown webpack/babel issue
 - [ ] Mongo cluster setup
